@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(88, 107, 107);
+}
+header{
+    padding: 10px;
+}
+.POR{
+    display: flex;
+}
+.TWENTY-NINE{
+    width: 100%;
+    height: 500px;
+    margin: 1%; 
+    border-radius: 10PX;
+    background-image: url(Imagen/Annobon_\ Playa\ del\ amor.jfif);
+}
+.THIRTY{
+     width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/GUINEA\ ECUATORIAL\ OBRAS\ PUBLICAS\ PUERTO\ DE\ ANNOBON….jfif);
+}
+.THIRTY-ONE{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/709176272595399439.jfif);
+}
+
+.LUI{
+    display: flex;
+}
+.THIRTY-THREE{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/descarga.jfif);
+    background-size: cover;
+}
+.THIRTY-FOURE{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/Annobon\ beach_.jfif);
+}
+.THIRTY-FIVE{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/Nature.jfif);
+}
+ 
+.SOLEIL{
+    display: flex;
+}
+.BRISA{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/Annobon\,\ Guinea\ Ecuatorial.jfif);
+}
+.MONTE{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/Annobon\,\ una\ isla\ de\ Guinea\ Ecuatorial_.jfif);
+    background-size: cover;
+}
+.VALLE{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/Annobon\ male\ life.jfif);
+    background-size: cover;
+}
+ 
+ 

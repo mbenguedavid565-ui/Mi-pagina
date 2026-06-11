@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: beige;
+}
+header{
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    font-size: 20px;
+}
+.FLEUR{
+    display: flex;
+    justify-content: center;
+   
+}
+.ARBRE{
+    display: flex;
+}
+.ONE{
+    width: 100%;
+    height: 500PX;
+  background-image: url(Imagen/BL.png);
+  margin: 1%;
+  border-radius: 10px;
+  background-size: cover;
+  
+}
+.TWO{
+    width: 100%;
+    height: 500PX;
+  background-image: url(Imagen/ccc.png);
+  margin: 1%;
+  border-radius: 10px;
+
+}
+.THREE{
+    width: 100%;
+    height: 500PX;
+    background-image: url(Imagen/24979.jpg);
+    margin: 1%;
+    border-radius: 10px;
+    background-size: cover;
+    
+}
+.FIVE{
+    width: 100%;
+    height: 500PX;
+    background-image: url(Imagen/IMG-20260527-WA0060.jpg);
+    margin: 1%;
+    border-radius: 10px;
+    
+}
+.SIX{
+    width: 100%;
+    height: 500PX;
+     background-image: url(Imagen/IMG-20260602-WA0022.jpg);
+     margin: 1%;
+     border-radius: 10px;
+     background-size: cover;
+}
+.SEVEN{
+    width: 100%;
+    height: 500PX;
+    background-image: url(Imagen/IMG-20260602-WA0020.jpg);
+    margin: 1%;
+    border-radius: 10px;
+    background-size: cover;
+
+}
+
+ 

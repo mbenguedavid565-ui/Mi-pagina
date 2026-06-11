@@ -1,0 +1,285 @@
+*{
+    margin: opx;
+    padding: opx;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    width: 100%;
+    height: 900px;
+    background-image: url(Imagen/836c7414-2cee-4a47-8aad-2f076a4f9a4b.jpeg);
+    background-position: center;
+    background-size: cover;
+    object-fit: contain;
+    flex-direction: column;
+    background-repeat: no-repeat;
+}
+.DOU h2{
+    
+    color: black;
+    text-align: left;
+     margin: 2%;
+    font-size: 35px;
+    color: white;   
+}
+.DOU{
+    display: flex;
+}
+#TI{
+    margin: 4%;
+    font-size: 60px;
+}
+#CV{
+    margin: 4%;
+    font-size: 60PX;
+}
+#SI{
+    margin: 3%;
+    font-size: 40PX;
+}
+#ID{
+    margin: 3%;
+    font-size: 40px;
+}
+.PL{
+    width: 100%;
+    height: 20PX;
+    background-color: #00264d;
+    color: #cccccc;
+    text-align: right;
+}
+.UBER{
+    display: flex;
+    width: 100%;
+    height: 30px;
+    background-color: aquamarine;
+    justify-content: right;
+}
+#IA{
+     margin: 1%;
+}
+#IE{    
+    margin: 1%;}
+#II{
+    margin: 1%;
+}
+.DA{
+    margin: 2%;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 5px solid rgba(255, 255,255, 0.2);
+    border-radius: 10px;  
+    color: white;
+}
+ 
+.LUIS{
+    background-color: black;
+    display: flex;
+     justify-content: center;
+     height: 70px;
+     color: aqua;
+}
+.TIA{
+    height: 500PX;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.PRIMO{
+    background-image: url(Imagen/772d0d4d-e8de-4877-8bab-b99bbb152c68.jpeg);
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 650px;
+}
+.PRIMA{
+    background-image: url(Imagen/20fd6bef-0503-41d5-abe0-db5e0806bc51.jpeg);
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 650PX;
+}
+.HERMANO{
+    background-image: url(Imagen/407efdb2-62cd-4b5b-917c-43bbdef4930e.jpeg);
+    background-repeat: no-repeat;
+    width: 80%;
+    height:650px;
+}
+.IL{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(84, 112, 31);
+}
+.OP{
+    padding: 20px;
+    font-size: 40px;
+    color: white;
+}
+.HJ{
+   width: 50%;
+   height: 400px;
+   background-color: rgb(41, 41, 190);
+}
+ 
+#EU{
+   margin: 2%;
+}
+#EAU{
+    margin: 2%;
+}
+#FG{
+   margin: 2%;
+}
+#QA{
+    margin: 2%;
+}
+#RT{
+    margin: 2%;
+}
+button .SA{
+    background-color: black;
+    color: rgb(163, 8, 8);
+    width: 10%;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 10PX;
+}
+.PK{
+    width: 100%;
+    height: 50PX;
+    background-color: black;
+    
+}
+ 
+.OUI{
+     width: 50%;
+     height: 500PX;
+    background-color: rgba(0, 0, 255, 0.096); 
+     align-items: center;
+     text-align: center;
+     padding: 30px 40px;
+     border-radius: 10px;
+}
+.OUI h1{
+    text-align: center;
+    margin-bottom: 35px;
+}
+.input-box{
+  display: flex;
+  border: 5px solid rgb(84, 112, 31);  
+  height: 60px;
+  border-radius: 40px;
+  padding: 5px;
+  margin: 2%;
+}
+.input-box input{
+     flex: 1;
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    font-size: 16px;
+    color: #141313;
+    min-width: 0;
+}
+.LOS{
+  display: flex;
+  border: 5px solid rgb(84, 112, 31);  
+  height: 60px;
+  border-radius: 40px;
+  padding: 10px;
+  margin: 2%;
+}
+.LOS input{
+     flex: 1;
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    font-size: 16px;
+    color: #141313;
+    min-width: 0;
+}
+ 
+.JORDY{
+  display: flex;
+  border: 5px solid rgb(84, 112, 31);  
+  height: 60px;
+  border-radius: 40px;
+  padding: 10px;
+  margin: 2%;
+}
+.JORDY input{
+     flex: 1;
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    font-size: 16px;
+    color: #141313;
+    min-width: 0;
+}
+.ENOC{
+    display: flex;
+  border: 5px solid rgb(84, 112, 31);  
+  height: 60px;
+  border-radius: 40px;
+  padding: 10px;
+  margin: 2%;
+}
+.ENOC input{
+      flex: 1;
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    font-size: 16px;
+    color: #141313;
+    min-width: 0;
+}
+.ESLACH{
+     display: flex;
+  border: 5px solid rgb(84, 112, 31);  
+  height: 60px;
+  border-radius: 40px;
+  padding: 10px;
+  margin: 2%;
+}
+.ESLACH input{
+    flex: 1;
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    font-size: 16px;
+    color: #141313;
+    min-width: 0;
+}
+button{
+    width: 40%;
+    padding: 2PX;
+    margin: 1%;
+    border-radius: 10px;
+    
+}
+.IO{
+    background-color: rgb(47, 12, 145);
+}
+.OJ{
+    display: flex;
+}
+.KL{
+    width: 100%;
+    height: 500px;
+    background-color: antiquewhite;
+    font-size: 40px;
+    text-align: center;
+}
+
+.JK{
+    width: 100%;
+    height: 90PX;
+    background-color: rgba(127, 255, 212, 0.603);
+}
+ 
+
+
+
+                        

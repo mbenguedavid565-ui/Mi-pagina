@@ -1,0 +1,103 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+header{
+    padding: 20PX;
+}
+.CLIENTE{
+   display: flex;
+}
+.MODULE{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/35dd22af-112c-43d9-a393-37305c7e953c.jpeg);
+}
+.ALGORITHM{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/76eb377c-142b-4342-9b88-13ef00a410e6.jpeg);
+}
+.FRONTEND{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/879ab775-c372-4fe4-ba32-a09de465e26a.jpeg);
+}
+ 
+.USER{
+    display: flex;
+}
+.INTERFACE{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/Paseo\ marítimo\ Malabo\,\ EG\ Guinea\ Ecuatorial\ 🇬🇶….jfif);
+    background-repeat: no-repeat;
+    
+}
+.UX{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/Malabo\ capitale\ de\ la\ Guinée\ Equatoriale.jfif);
+}
+.ASSETS{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/03368570-843f-4c05-b2c1-f41ec4984561.jpeg);
+}
+.SCRIPTS{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/a7ff18d6-0bb1-4a4c-82cf-8c429a045dd1.jpeg);
+}
+.BACKEND{
+    display: flex;
+}
+.PSU{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+ background-image: url(Imagen/);
+}
+.COOLING{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/21101689-4d0d-489b-b795-8fed5acb2f02.jpeg);
+}
+.COOLER{
+   width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/c79ee33f-e4ea-4c7e-8d0d-02922d7d78b1.jpeg);
+}
+  

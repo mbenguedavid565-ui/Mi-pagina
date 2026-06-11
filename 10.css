@@ -1,0 +1,91 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.BUILD{
+    display: flex;
+}
+.ENV{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.REPO{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.REPO{
+     width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.CALL{
+     width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.CPU{
+    display: flex;
+}
+.MOUSE{
+     width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.PRINTER{
+     width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.BIOS{
+     width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.CD{
+     width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.MONITOR{
+    display: flex;
+}
+.CASE{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.RAM{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.ROM{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}

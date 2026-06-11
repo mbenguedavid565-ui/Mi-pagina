@@ -1,0 +1,71 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: blanchedalmond;
+}
+header{
+    padding: 20px;
+}
+.FEILLE{
+    display: flex;
+}
+.APLICATION{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/12\,jpp.png);
+}
+.PROGRAM{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+    background-image: url(Imagen/cat.jpg);
+}
+.FILE{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.FOLDER{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+    border-radius: 10PX;
+}
+.SOURCE-CODE{
+    display: flex;
+}
+.COMPILER{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+}
+.DRIVER{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+}
+.LIBRARY{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+}
+.SERVER{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(5, 18, 19);
+    margin: 1%;
+}

@@ -1,0 +1,119 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(178, 241, 241);
+}
+header h1{
+    padding: 20px;
+}
+header h2{
+    padding: 10px;
+}
+.FOURTEEN{
+    display: flex;
+}
+.FIFTEEN{ 
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/das.png);
+    background-size: cover;
+}
+.SIXTEEN{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/Catedral\ de\ la\ Ciudad\ de\ Bata.jfif);
+}
+.SEVETEEN{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/Bata\,\ Equatorial\ Guinea.jfif);
+    background-size: cover;
+}
+.NINETEEN{
+    display: flex;
+}
+.TWENTY{
+     width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/bata2.png);
+    background-size: cover;
+}
+.TWENTY-ONE{
+     width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/Torre\ de\ la\ Libertad\ en\ Bata\,\ Guinea\ Ecuatorial.jfif);
+}
+.TWENTY-TWO{
+     width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/Bata\ -\ Ecuatorial\ Guinea\ \(1\).jfif);
+    background-size: cover;
+}
+.TWENTY-FOUR{
+    display: flex;
+}
+.TWENTY-SIX{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/Bata_\ Guinea\ Ecuatorial\ -\ Plaza\ de\ la….jfif);
+}
+.TWENTY-SEVEN{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/Torre\ de\ la\ Libertad.jfif);
+}
+.TWENTY-EIGHT{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/mae.png);
+}
+
+.TECLADO{
+    display: flex;
+}
+
+.TWENTY-FIVE{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/bo.png);
+    background-size: cover;
+}
+
+.TWENTY-THREE{
+     width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/uk.png);
+}
+.EIGHTEEN{
+    width: 100%;
+    height: 500px;
+    margin: 1%;
+    border-radius: 10px;
+    background-image: url(Imagen/wa.png);
+}

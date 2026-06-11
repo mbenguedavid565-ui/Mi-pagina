@@ -1,0 +1,139 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+Body{
+    background-color: rgb(84, 84, 155);
+}
+header{
+    padding: 20PX;
+}
+.INSTTIC{
+    display: flex;
+    background-color: brown;
+}
+.EDUCACION{
+     width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/PL.png);
+}
+.ESFUERZO{
+    width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/YU.png);
+    background-size: cover;
+}
+.ANIMO{
+    width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/877639046120750464.webp);
+}
+.DIRECTOR{
+    display: flex;
+    background-color: rgb(66, 38, 1);
+}
+.JEFE-F{
+    width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/OS.png);
+    background-size: cover;
+}
+.ORDEN{
+    width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/EN.png);
+}
+.VALOR{
+     width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/65513369576052999.jfif);
+}
+.DRT-ACADEMICO{
+    display: flex;
+    background-color: rgb(44, 39, 49);
+}
+.PROFES{
+    width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/THIS.png);
+}
+.NOTAS{
+     width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/23.png);
+}
+.RESULTADO{
+     width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/U.png);
+}
+.SECRETARIA-DIRECTOR{
+    display: flex;
+    background-color: coral;
+}
+.PAPEL{
+    width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/HG.png);
+}
+.TRABAJO{
+    width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/CD.png);
+    background-size: cover;
+}
+.BOLI{
+     width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/AC.png);
+}
+.SECRETARIA-DRT{
+    display: flex;
+    background-color: indigo;
+}
+.MERITO{
+     width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/LM.png);
+}
+.FUERZA{
+     width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/HAI.png);
+}
+.FICHAS{
+     width: 100%;
+    height: 500PX;
+    border-radius: 10PX;
+    margin: 1%;
+    background-image: url(Imagen/KO.png);
+}
