@@ -30,13 +30,8 @@ header{
     margin: 1%;
     border-radius: 10PX;
 }
-.OPERATING{
-    width: 100%;
-    height: 500px;
-    background-color: rgb(72, 133, 64);
-    margin: 1%;
-    border-radius: 10PX;
-}
+
+
 .FIRMWARE{
     display: flex;
 }
@@ -61,13 +56,7 @@ header{
     margin: 1%;
     border-radius: 10PX;
 }
-.LOGIC{
-    width: 100%;
-    height: 500px;
-    background-color: rgb(2, 132, 141);
-    margin: 1%;
-    border-radius: 10PX;
-}
+
 .ACCES{
     display: flex;
 }
@@ -89,13 +78,6 @@ header{
     width: 100%;
     height: 500px;
     background-color: rgb(92, 223, 75);
-    margin: 1%;
-    border-radius: 10PX;
-}
-.WIDGET{
-    width: 100%;
-    height: 500px;
-    background-color: rgb(20, 22, 22);
     margin: 1%;
     border-radius: 10PX;
 }

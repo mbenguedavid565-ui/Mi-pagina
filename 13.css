@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.JUGO{
+    display: flex;
+}
+.WE{
+    width: 40%;
+    height: 350PX;
+    background-color: aqua;
+    border-radius: 10PX;
+    margin: 5%;
+}
+.BACH{
+    width: 40%;
+    height: 350PX;
+    background-color: rgb(1, 49, 49);
+    border-radius: 10PX;
+    margin: 5%;
+}
+.OKEY{
+    display: flex;
+}
+.SI{
+     width: 40%;
+    height: 350PX;
+    background-color: rgb(1, 49, 49);
+    border-radius: 10PX;
+    margin: 1%;
+}
+.PERFECT{
+     width: 40%;
+    height: 350PX;
+    background-color: rgb(1, 49, 49);
+    border-radius: 10PX;
+    margin: 1%;
+}
+.SUPER{
+     width: 40%;
+    height: 350PX;
+    background-color: rgb(1, 49, 49);
+    border-radius: 10PX;
+    margin: 1%;
+}
+.ZOO{
+      display: flex;
+}
+.PUMBA{
+     width: 40%;
+    height: 350PX;
+    background-color: aqua;
+    border-radius: 10PX;
+    margin: 5%;
+}
+.TIMON{
+     width: 40%;
+    height: 350PX;
+    background-color: aqua;
+    border-radius: 10PX;
+    margin: 5%;
+}
+.ER{
+    display: flex;
+}
+.POL{
+    width: 40%;
+    height: 350PX;
+    background-color: rgb(1, 49, 49);
+    border-radius: 10PX;
+    margin: 1%;
+}
+.DIAS{
+    width: 40%;
+    height: 350PX;
+    background-color: rgb(1, 49, 49);
+    border-radius: 10PX;
+    margin: 1%;
+}
+.LUIS{
+    width: 40%;
+    height: 350PX;
+    background-color: rgb(1, 49, 49);
+    border-radius: 10PX;
+    margin: 1%;
+}
+
+
+ 
