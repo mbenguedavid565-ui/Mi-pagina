@@ -3,22 +3,27 @@
     padding: 0%;
     box-sizing: border-box;
 }
+body{
+    width: 100%;
+    height: 900px;
+    background-image: url(Imagen/lunes.jfif);
+}
 .JUGO{
     display: flex;
 }
 .WE{
     width: 40%;
     height: 350PX;
-    background-color: aqua;
     border-radius: 10PX;
     margin: 5%;
+    background-image: url(Imagen/martes.jfif);
 }
 .BACH{
     width: 40%;
-    height: 350PX;
-    background-color: rgb(1, 49, 49);
+    height: 800PX;
     border-radius: 10PX;
     margin: 5%;
+    background-image: url(Imagen/miercoles.jfif);
 }
 .OKEY{
     display: flex;
@@ -26,23 +31,23 @@
 .SI{
      width: 40%;
     height: 350PX;
-    background-color: rgb(1, 49, 49);
     border-radius: 10PX;
     margin: 1%;
+    background-image: url(Imagen/jueves.png);
 }
 .PERFECT{
      width: 40%;
     height: 350PX;
-    background-color: rgb(1, 49, 49);
     border-radius: 10PX;
     margin: 1%;
+    background-image: url(Imagen/11188699074613285.jfif);
 }
 .SUPER{
      width: 40%;
     height: 350PX;
-    background-color: rgb(1, 49, 49);
     border-radius: 10PX;
     margin: 1%;
+    background-image: url(Imagen/70298444172457067.jfif);
 }
 .ZOO{
       display: flex;
@@ -50,16 +55,16 @@
 .PUMBA{
      width: 40%;
     height: 350PX;
-    background-color: aqua;
     border-radius: 10PX;
     margin: 5%;
+    background-image: url(Imagen/Marcetplace\ ladies\ from\ Guinea.jfif);
 }
 .TIMON{
      width: 40%;
     height: 350PX;
-    background-color: aqua;
     border-radius: 10PX;
     margin: 5%;
+    background-image: url(Imagen/The\ Fang\ people\,\ numbering\ roughly\ 3_5\ million….jfif);
 }
 .ER{
     display: flex;

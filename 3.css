@@ -5,7 +5,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 body{
-    background-color: beige;
+    background-color: rgb(167, 167, 84);
 }
 header{
     width: 100%;
@@ -70,7 +70,19 @@ header{
     margin: 1%;
     border-radius: 10px;
     background-size: cover;
-
+}
+.ECUTE{
+    display: flex;
+}
+.YHD{
+    width: 50%;
+    height: 200PX;
+    margin: 2%;
+}
+.DJ{
+    width: 50%;
+    height: 200PX;
+    margin: 2%;
 }
 
  

@@ -117,3 +117,22 @@ header h2{
     border-radius: 10px;
     background-image: url(Imagen/wa.png);
 }
+.JUI{
+    display: flex;
+    font-size: 20px;
+}
+.HF{
+    width: 40%;
+    height: 200PX;
+    margin: 1%;
+}
+.FC{
+    width: 40%;
+    height: 200PX;
+    margin: 1%;
+}
+.ERR{
+    width: 40%;
+    height: 200PX;
+    margin: 1%;
+}
