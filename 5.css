@@ -86,5 +86,29 @@ header{
     background-image: url(Imagen/Annobon\ male\ life.jfif);
     background-size: cover;
 }
+.WID{
+    display: flex;
+    font-size: 20PX;
+}
+.HEI{
+    width: 50%;
+    height: 200PX;
+    margin: 2%;
+}
+.MAR{
+     width: 50%;
+    height: 200PX;
+    margin: 2%;
+}
+.BOR{
+     width: 50%;
+    height: 200PX;
+    margin: 2%;
+}
+.ANA{
+    padding: 30px;
+    font-size: 20px;
+    margin: 2%;
+}
  
  

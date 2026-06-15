@@ -8,6 +8,7 @@ Body{
 }
 header{
     padding: 20PX;
+    font-size: 20px;
 }
 .INSTTIC{
     display: flex;
@@ -136,4 +137,27 @@ header{
     border-radius: 10PX;
     margin: 1%;
     background-image: url(Imagen/KO.png);
+}
+.CO{
+    display:flex;
+}
+.LA{
+    width: 50%;
+    height: 300PX;
+    margin: 1%;
+}
+.EL{
+     width: 50%;
+    height: 300PX;
+    margin: 1%;
+}
+.POR{
+     width: 50%;
+    height: 300PX;
+    margin: 1%;
+}
+.NINGUNA{
+    width: 50%;
+    height: 300PX;
+    margin: 1%;
 }

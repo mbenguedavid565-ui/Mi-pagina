@@ -11,6 +11,9 @@ body{
 .JUGO{
     display: flex;
 }
+.FLEX{
+    font-size: 20PX;
+} 
 .WE{
     width: 40%;
     height: 350PX;
@@ -72,16 +75,16 @@ body{
 .POL{
     width: 40%;
     height: 350PX;
-    background-color: rgb(1, 49, 49);
     border-radius: 10PX;
     margin: 1%;
+   background-image: url(Imagen/BA.png);
 }
 .DIAS{
     width: 40%;
     height: 350PX;
-    background-color: rgb(1, 49, 49);
     border-radius: 10PX;
     margin: 1%;
+    background-image: url(Imagen/Screenshot_20260614-221614.jpg);
 }
 .LUIS{
     width: 40%;
@@ -89,7 +92,74 @@ body{
     background-color: rgb(1, 49, 49);
     border-radius: 10PX;
     margin: 1%;
+    background-image: url(Imagen/Screenshot_20260614-222253.jpg);
 }
-
+.DIR{
+    display: flex;
+}
+.ERAIS{
+    width: 40%;
+    height: 350PX;
+    background-image: url(Imagen/Screenshot_20260614-222439.jpg);
+    border-radius: 10PX;
+    margin: 3%;
+}
+.WERI{
+    width: 40%;
+    height: 350PX;
+    background-image:url(Imagen/Screenshot_20260614-222302.jpg);
+    margin: 3%;
+}
+.QA{
+    width: 100%;
+    height: 500px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    background-image: url(Imagen/Screenshot_20260614-222205.jpg);
+    background-size: cover;
+}
+.OKL{
+    display: flex;
+}
+.VAMOS{
+    width: 50%;
+    height: 400PX;
+    background-image: url(Imagen/Screenshot_20260614-222450.jpg);
+    border-radius: 10px;
+}   
+.ANIMO{
+    width: 50%;
+    height: 400PX;
+    background-image: url(Imagen/Screenshot_20260614-222151.jpg);
+}
+.ESR{
+    width: 50%;
+    height: 400PX;
+    background-image: url(Imagen/Screenshot_20260614-222735.jpg);
+    
+}
+.JBN{
+    width: 100%;
+    height: 800PX;
+    background-image: url(Imagen/Screenshot_20260614-220242.jpg);
+    background-size: cover;
+}
+.MADE{
+    display: flex;
+    padding: 18px;
+    font-size: 19px;
+}
+.BA{
+   width: 50%;
+   margin: 1%;
+}
+.DES{
+    width: 50%;
+    margin: 1%;
+}
+.DE{
+    width: 50%;
+    margin: 1%;
+}
 
  
